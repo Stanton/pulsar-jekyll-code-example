@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
-  s.name        = 'jekyll-code-example-tag'
+  s.name        = 'pulsar-jekyll-code-example'
   s.version     = '1.0.0'
   s.date        = '2015-02-03'
-  s.authors     = ['GovDelivery']
-  s.email       = 'support@govdelivery.com'
-  s.homepage    = 'https://github.com/govdelivery/jekyll-code-example-tag'
+  s.authors     = ['Paul Stanton']
+  s.email       = 'paul.stanton@jadu.net'
+  s.homepage    = 'https://github.com/Stanton/pulsar-jekyll-code-example'
   s.license     = 'BSD-3-Clause'
   s.summary     = 'Tags for including code examples in posts and pages.'
   s.description = %q{Provides a tag that allows you to include in your posts 
