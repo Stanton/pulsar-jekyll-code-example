@@ -4,7 +4,7 @@ require 'liquid'
 require 'nokogiri'
 require 'pry'
 require 'rspec'
-require_relative '../lib/jekyll-code-example-tag.rb'
+require_relative '../lib/pulsar-jekyll-code-example.rb'
 
 RSpec.configure do |config|
   config.include FakeFS::SpecHelpers, fakefs: true
